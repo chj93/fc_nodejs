@@ -7,7 +7,6 @@
     "start": "nodemon -e js,html server.js",
     "dev": "nodemon -e js,html server.js"
   },
-  "author": "박준영",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
